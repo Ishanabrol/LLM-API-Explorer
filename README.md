@@ -14,6 +14,10 @@
 
 ---
 
+[![Open in nbviewer](https://img.shields.io/badge/View%20Notebook-nbviewer-orange?logo=jupyter)](https://nbviewer.org/github/Ishanabrol/LLM-API-Explorer/blob/main/Notebook/LLM_Explorer%281%29.ipynb)
+
+---
+
 ## 💼 Why This Project Exists
 
 Most people start with LangChain, ChatGPT wrappers, or no-code AI tools without
